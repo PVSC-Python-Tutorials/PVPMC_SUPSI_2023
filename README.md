@@ -5,7 +5,7 @@ The pvlib community is looking forward to another pvlib training session at the 
 
 If you’re new to pvlib or PV modeling, fret not, we have a several suggested projects, from Easy to Challenging. More information on each project can be found by following the links below.
 
-The training session will take place on May 10 from 4 to 6 pm.
+The training session will take place on November 9, 2023 from 2:45 to 5 pm.
 
 ## Project ideas
 
