@@ -13,7 +13,7 @@ The training session will take place on November 9, 2023 from 2:45 to 5 pm.
 - [Calculate one year of clear-sky irradiance](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/6)
 
 **Medium**
- -[Calculate output of a PV system](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/7)
+- [Calculate output of a PV system](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/7)
 - [How much do irradiance transposition models differ?](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/3)
 - [How does the annual irradiance differ year-to-year in Mendrisio?](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/4)
 - [What is the ideal tilt for a PV system?](https://github.com/PVSC-Python-Tutorials/PVPMC_SUPSI_2023/discussions/2)
