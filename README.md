@@ -1,7 +1,7 @@
-# pvlib training session at PVPMC 2023
+# pvlib-python training session at 2023 European PVPMC workshop
 ![alt text](_static/PVLib_PVPMCLogo.png)
 
-The pvlib community is looking forward to another pvlib training session at the [2023 PV Performance Modeling Workshop](https://pvpmc.sandia.gov/resources-and-events/events/). During the session, you will choose a topic to explore using pvlib, and experts will be available to help you and provide guidance.
+The pvlib community is looking forward to another pvlib training session at the [2023 European PVPMC Workshop](https://pvpmc.sandia.gov/resources-and-events/events/). During the session, you can choose a topic to explore using pvlib, and experts will be available to help you and provide guidance.
 
 If you’re new to pvlib or PV modeling, fret not, we have a several suggested projects, from Easy to Challenging. More information on each project can be found by following the links below.
 
